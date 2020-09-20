@@ -17,5 +17,4 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about neural nets, chatbots, and ML.
 - 📫 **How to reach me**: You can reach out to me on my email-ID: **nriwork88@gmail.com** 
 - 😄 Pronouns: He, Him
-- ⚡ Fun fact: I'm a code connoiseur.
 
