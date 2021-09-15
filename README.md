@@ -15,6 +15,6 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on any ML/NLP - driven projects.
 - 🤔 I’m looking for help with ML model deployment. 
 - 💬 Ask me about neural nets, chatbots, and ML.
-- 📫 **How to reach me**: You can reach out to me on my email-ID: **nriwork88@gmail.com** 
+- 📫 **How to reach me**: You can reach out to me on my email-ID: **nk2913@columbia.edu** 
 - 😄 Pronouns: He, Him
 
